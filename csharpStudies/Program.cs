@@ -10,6 +10,7 @@ namespace csharpStudies
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
